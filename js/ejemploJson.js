@@ -13,7 +13,7 @@ var carroJSON = {
     }
 }
 
-carroJSON.duenos.push("Osqui", "Yez", "Christie");
+carroJSON.duenos.push("Oscar", "Yez", "Christie");
 carroJSON['color'] = 'negro';
 carroJSON.placa = 796422;
 
